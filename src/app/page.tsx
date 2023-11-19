@@ -29,13 +29,13 @@ export default function Home() {
             </div>
             <div className="flex flex-col gap-2 mt-3">
               <div className="flex gap-2">
-                <PhoneCallIcon />
+                <PhoneCallIcon className="text-white" />
                 <a href="tel:+84376187961" className="text-white">
                   (+84) 376 187 961
                 </a>
               </div>
               <div className="flex gap-2">
-                <Mail />
+                <Mail className="text-white" />
                 <a href="mailto:" className="text-white">
                   tranthanhthuy@gmail.com
                 </a>
